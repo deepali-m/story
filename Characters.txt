@@ -1,3 +1,7 @@
 Hare
 Tortoise
 unknown
+
+monkey 
+lion
+deer
